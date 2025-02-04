@@ -1,0 +1,23 @@
+{
+    "short_name": "Gustavo Lira",
+    "name": "Gustavo Lira - Portfolio",
+    "icons": [
+      {
+        "src": "img/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "description": "Site Pessoal Gustavo Lira,portfolio, skills, e projetos."
+  }
+  
